@@ -1,5 +1,5 @@
 # avalanchemior
-avalanchemior : Safety Technology # Optimize Model Performance # ROC # AUC # scikit-learn
+avalanchemior : Safety & Rescue Technology # Optimize Model Performance # ROC # AUC # scikit-learn
 
 ## Objective
 - Create ROC curves.
