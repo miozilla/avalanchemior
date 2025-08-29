@@ -9,5 +9,19 @@ avalanchemior : Safety & Rescue Technology # Optimize Model Performance # ROC # 
 
 ## 	Measure and optimize model performance with ROC and AUC 
 
-## CI/CD in Progress...
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
+![avalanchemior001.png](./media/avalanchemior001.png)
+
+![avalanchemior002.png](./media/avalanchemior002.png)
+
+![avalanchemior003.png](./media/avalanchemior003.png)
+
+![avalanchemior004.png](./media/avalanchemior004.png)
+
+![avalanchemior005.png](./media/avalanchemior005.png)
+
+![avalanchemior006.png](./media/avalanchemior006.png)
+
+![avalanchemior007.png](./media/avalanchemior007.png)
+
+![avalanchemior008.png](./media/avalanchemior008.png)
