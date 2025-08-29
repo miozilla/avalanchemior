@@ -1,4 +1,4 @@
-# avalanchemior
+# avalanchemior ⛷️🏔️
 avalanchemior : Safety & Rescue Technology # Optimize Model Performance # ROC # AUC # scikit-learn
 
 ## Objective
