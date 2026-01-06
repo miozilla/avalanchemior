@@ -2,13 +2,12 @@
 avalanchemior : Safety & Rescue Technology # Optimize Model Performance # ROC # AUC # scikit-learn
 
 ## Objective
-- Create ROC curves.
+- Create Receiver Operating Characteristic (ROC) curves.
 - Explore how to assess and compare models using these curves
 - Practice fine-tuning a model using characteristics plotted on ROC curves
-
+- Tune area under the curve (AUC)
 
 ## 	Measure and optimize model performance with ROC and AUC 
-
 
 ![avalanchemior001.png](./media/avalanchemior001.png)
 
